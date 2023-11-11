@@ -19,3 +19,4 @@ int main() {
 	k = k1 * k2;
 	std::cout << k;
 }
+
